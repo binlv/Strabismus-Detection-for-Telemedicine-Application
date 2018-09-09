@@ -23,7 +23,7 @@ Notes:
 
   4) scikit-learn, a machine learning library, is required for different classifiers (SVM, Random Forests, Nearest Neighbor and Adaboost) and an evaluation metrics (AUC).
 
-  These libraries can be easily set by packet manager on linux systems
+  These libraries can be easily set by packet manager on linux systems. 
   Because there is an agreement with doctors and patients, we are temporarily unable to publish the data.
 
 --------------------------------------------------------------
